@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="680ff59b83cf4113bd9c670e192b69a2" Name="Diagram1" >
+        <EntityTypeShape EntityType="BD_curs.Employees" Width="1.5" PointX="5" PointY="0.875" />
+        <EntityTypeShape EntityType="BD_curs.Seniority" Width="1.5" PointX="7.25" PointY="2.25" />
+        <EntityTypeShape EntityType="BD_curs.Company" Width="1.5" PointX="0.5" PointY="2.625" />
+        <EntityTypeShape EntityType="BD_curs.Departments" Width="1.5" PointX="2.75" PointY="2.375" />
+        <EntityTypeShape EntityType="BD_curs.Position" Width="1.5" PointX="5" PointY="4" />
+        <AssociationConnector Association="BD_curs.DepartmentsEmployees" />
+        <AssociationConnector Association="BD_curs.EmployeesSeniority" />
+        <AssociationConnector Association="BD_curs.CompanyDepartments" />
+        <AssociationConnector Association="BD_curs.PositionSeniority" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

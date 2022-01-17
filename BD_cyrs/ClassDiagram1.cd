@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BD_cyrs.request_return">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BD_class.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BD_cyrs.request_non_return">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BD_class.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BD_cyrs.Statistica">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAgAAAAAAoAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Statistica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.BD_class" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAgAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BD_class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.BD_cursContainer" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAJAAAAAAAAAAAEAAAABAAIAAAIAAAAAA=</HashCode>
+      <FileName>BD_curs.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Company" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Departments" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIAAAAAAAAAAAAACBAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Departments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Employees" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAiAAAAAAAAAACAAAABAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Employees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Position" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Seniority" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAACAAAgAAAgBAAACACEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seniority.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.CompanyForm" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAASCMAABAAAASwFhKCAAAACQAAkACAAQCABAA=</HashCode>
+      <FileName>CompanyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Mainform" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAAAAAAACAAAACAAAAgAEAAAAIAAIAACA=</HashCode>
+      <FileName>Mainform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.PersonalForm" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BwAACAIAvHICAEgMgAqAAABCAAACIAggEAACAAAAAIA=</HashCode>
+      <FileName>PersonalForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Positionform" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgiEAkAADAAAAACAQCAAAACAAACBCAAAAAAAQAAAAA=</HashCode>
+      <FileName>Positionform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Program" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Redactform">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAACAAIAAIAACAAAACAAAAAAAAQAAAAQACAAA=</HashCode>
+      <FileName>Redactform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Searchform" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGIAABAEAACAAAACAAAADAAAEAAAAAIgAAA=</HashCode>
+      <FileName>Searchform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Statisticaform" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABACCIAABAAABCAAACiAAAAIAAAAEAIABAAAAA=</HashCode>
+      <FileName>Statisticaform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_cyrs.Properties.Settings" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BD_cyrs.IRequest">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BD_class.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
